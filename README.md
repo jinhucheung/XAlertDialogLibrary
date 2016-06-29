@@ -6,7 +6,7 @@ Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
 备注     
 详情请前往[原作者仓库](https://github.com/pedant/sweet-alert-dialog)   
 
-比较原项目，自己做了以下修改方便自己项目使用：
+比较原项目，自己做了以下修改方便自己项目使用:     
 1. 增加输入对话框
 
 2. 增加拖动条对话框
