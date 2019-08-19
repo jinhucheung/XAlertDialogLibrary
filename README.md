@@ -1,8 +1,9 @@
 Sweet Alert Dialog
 ===================
+
 Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
 
-===================
+
 备注     
 详情请前往[原作者仓库](https://github.com/pedant/sweet-alert-dialog)   
 
@@ -12,9 +13,6 @@ Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
 - 增加拖动条对话框
 
 - 增加上述两对话框数据访问接口
-
-
-===================
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Sweet%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
 
